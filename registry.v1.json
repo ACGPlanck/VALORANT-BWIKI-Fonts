@@ -67,7 +67,7 @@
       ],
       "loader": {
         "kind": "module",
-        "entry": "code-mirror/dist/index.mjs",
+        "entry": "https://cdn.jsdelivr.net/gh/ACGPlanck/VALORANT-BWIKI-Fonts@main/CodeMirrorIndex.mjs",
         "styles": [
           "code-mirror/dist/style.css"
         ],
