@@ -121,7 +121,7 @@
       ],
       "loader": {
         "kind": "module",
-        "entry": "quick-delete/dist/index.mjs",
+        "entry": "https://cdn.jsdelivr.net/gh/ACGPlanck/VALORANT-BWIKI-Fonts@main/QuickDeleteIndex.mjs",
         "styles": [],
         "main_export": "PluginQuickDelete"
       }
