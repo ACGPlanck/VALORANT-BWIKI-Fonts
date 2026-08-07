@@ -138,7 +138,7 @@
       ],
       "loader": {
         "kind": "module",
-        "entry": "wiki-editor/dist/index.mjs",
+        "entry": "https://cdn.jsdelivr.net/gh/ACGPlanck/VALORANT-BWIKI-Fonts@main/IPE/WikiEditorIndex.mjs",
         "styles": [],
         "main_export": "default"
       }
