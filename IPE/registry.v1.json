@@ -67,7 +67,7 @@
       ],
       "loader": {
         "kind": "module",
-        "entry": "https://cdn.jsdelivr.net/gh/ACGPlanck/VALORANT-BWIKI-Fonts@main/CodeMirrorIndex.mjs",
+        "entry": "https://cdn.jsdelivr.net/gh/ACGPlanck/VALORANT-BWIKI-Fonts@main/IPE/CodeMirrorIndex.mjs",
         "styles": [
           "code-mirror/dist/style.css"
         ],
@@ -121,7 +121,7 @@
       ],
       "loader": {
         "kind": "module",
-        "entry": "https://cdn.jsdelivr.net/gh/ACGPlanck/VALORANT-BWIKI-Fonts@main/QuickDeleteIndex.mjs",
+        "entry": "https://cdn.jsdelivr.net/gh/ACGPlanck/VALORANT-BWIKI-Fonts@main/IPE/QuickDeleteIndex.mjs",
         "styles": [],
         "main_export": "PluginQuickDelete"
       }
